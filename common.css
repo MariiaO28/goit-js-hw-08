@@ -7,7 +7,7 @@ a {
 }
 
 a:hover {
-  cursor: url(../img/bxs_hand-down.svg), pointer;
+  cursor: url(/bxs_hand-down.svg), pointer;
 }
 
 .gallery {
